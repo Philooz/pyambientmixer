@@ -72,7 +72,8 @@ Loaded Channel 3 : Door open with creak and close (random 1 per 10m), 5745.ogg (
 Loaded Channel 4 : Flipping through large book (random 1 per 1m), 4583.ogg (volume 71, balance 0).
 Loaded Channel 5 : Small Group Whispering (random 5 per 10m), 3354.ogg (volume 61, balance 0).
 Loaded Channel 6 : echoing steps (looping), 6432.ogg (volume 100, balance 0).
-Loaded Channel 7 : Writing with a quill (looping), 6773.ogg (volume 96, balance 0).```
+Loaded Channel 7 : Writing with a quill (looping), 6773.ogg (volume 96, balance 0).
+```
 
 Relax and enjoy your mix! :)
 
