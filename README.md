@@ -11,14 +11,17 @@ These instructions will get you a copy of the project up and running on your loc
 You'll need python3 installed on your system, with the python packages untangle, pygame, requests and docopt.
 
 If you're on a 'bian system, you can install python3 and pip with
+
 ```sudo apt install python3 python3-pip```
 
 I recommend pip to install the required modules. Install them with
+
 ```sudo pip3 install requests pygame untangle docopt```
 
 You'll also need an OGG encoder, as I went with pygame (and because it's a free format).
 I recommend the easy-to-use dir2ogg utility, which encodes a whole directory into ogg.
 If you're a 'bian, you can install it with
+
 ```sudo apt install dir2ogg```
 
 ### Installing
@@ -32,9 +35,11 @@ Easy. Get to the mix you'd like to keep. In this example, I went with "**Night i
 Just run ```ambient_downloader.py``` with the url.
 
 In our example :
+
 ```python3 ambient_downloader.py http://religion.ambient-mixer.com/night-in-a-medieval-monastery```
 
 which will give us
+
 ```Saved http://xml.ambient-mixer.com/audio-template?player=html5&id_template=48152 as presets/night-in-a-medieval-monastery.xml.
 Saved http://xml.ambient-mixer.com/audio/9/5/7/957298df7abb5d7e94e6323c45d94063.mp3 as sounds/3677.mp3.
 Saved http://xml.ambient-mixer.com/audio/d/3/3/d33c249dc7497e59091fab0ef08ee283.mp3 as sounds/529.mp3.
