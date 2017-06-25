@@ -89,7 +89,7 @@ There is no GUI, and no possibility of changing files "on the fly". Feel free to
 
 ## License
 
-This project is licensed under the GPL License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPL License - see the [LICENSE](LICENSE.md) file for details
 
 ## Acknowledgments
 
