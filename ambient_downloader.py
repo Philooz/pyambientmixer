@@ -17,7 +17,7 @@ import requests
 import untangle
 
 template_url = "http://xml.ambient-mixer.com/audio-template?player=html5&id_template="
-re_js_reg = re.compile(r"soundTemplate : '([0-9]+)',")
+re_js_reg = re.compile(r"AmbientMixer.setup\('#mixer-gui-box', ([0-9]+)\);")
 
 def makedirs():
 	if not os.path.exists("sounds"):
